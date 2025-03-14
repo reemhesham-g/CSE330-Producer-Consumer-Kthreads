@@ -7,8 +7,6 @@ In this directory, there are two scripts available for student testing convenien
 This script can be used to test the kernel module. It will do the following when provided the directory to your source code and arguments to pass as the values for your module parameters:
  - Note, the reason we have it take a directory to your code rather than a zip file is to ease the testing process during development by not requiring you to create a zip file just to test your code. This script is to be used specifically during development.
 
-![image](https://github.com/user-attachments/assets/1f4bade3-61aa-4ec1-a1df-8c8a96710477)
-
 
 ### Usage and expected output:
 
